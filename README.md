@@ -1,6 +1,6 @@
 # Discord Bot with Dashboard
 
-Welcome to the **Discord Bot with Dashboard** project! This bot offers a comprehensive, intuitive, and sleek web dashboard, allowing you to manage your Discord server effortlessly. Whether it's configuring ticket systems, managing bot settings, or viewing real-time server statistics, this bot provides all the features you'll need to streamline server administration.
+Welcome to the **Ticket Discord Bot** project! This bot offers a comprehensive, intuitive, and sleek web dashboard, allowing you to manage your Discord server effortlessly. Whether it's configuring ticket systems, managing bot settings, or viewing real-time server statistics, this bot provides all the features you'll need to streamline server administration.
 
 ## Key Features
 
