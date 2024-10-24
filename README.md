@@ -58,7 +58,13 @@ Ensure you have the following installed:
 
 5. Configure your bot's settings in `config.json` (bot token, dashboard credentials, guild ID, etc.).
 
-6. Run the bot:
+6. Download `node_modules`
+   
+   ```bash
+   npm install discord.js@14.14.1
+   ```
+
+7. Run the bot:
 
    ```bash
    node bot.js
