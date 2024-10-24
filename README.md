@@ -47,7 +47,7 @@ Ensure you have the following installed:
 3. Install the necessary dependencies:
 
    ```bash
-   npm install
+   npm install discord.js@14.14.1
    ```
 
 4. Set up the configuration by renaming `config.example.json` to `config.json`:
@@ -57,12 +57,6 @@ Ensure you have the following installed:
    ```
 
 5. Configure your bot's settings in `config.json` (bot token, dashboard credentials, guild ID, etc.).
-
-6. Download `node_modules`
-   
-   ```bash
-   npm install discord.js@14.14.1
-   ```
 
 7. Run the bot:
 
